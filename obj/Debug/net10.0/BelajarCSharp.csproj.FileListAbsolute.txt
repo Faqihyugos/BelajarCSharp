@@ -1,0 +1,14 @@
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/bin/Debug/net10.0/BelajarCSharp
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/bin/Debug/net10.0/BelajarCSharp.deps.json
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/bin/Debug/net10.0/BelajarCSharp.runtimeconfig.json
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/bin/Debug/net10.0/BelajarCSharp.dll
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/bin/Debug/net10.0/BelajarCSharp.pdb
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.AssemblyInfoInputs.cache
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.AssemblyInfo.cs
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.csproj.CoreCompileInputs.cache
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.dll
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/refint/BelajarCSharp.dll
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.pdb
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.genruntimeconfig.cache
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/ref/BelajarCSharp.dll
