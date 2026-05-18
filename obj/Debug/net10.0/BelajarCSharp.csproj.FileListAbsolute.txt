@@ -12,3 +12,4 @@
 /Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.pdb
 /Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.genruntimeconfig.cache
 /Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/ref/BelajarCSharp.dll
+/Users/administrator/Documents/projects/belajar-csharp/BelajarCSharp/obj/Debug/net10.0/BelajarCSharp.sourcelink.json
