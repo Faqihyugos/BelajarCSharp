@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelajarCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef883f7fd14855219166e2cf4bfee3f69b0462ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ab84d7c37d4678d7b770450bc73e73de5ede4fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelajarCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelajarCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
